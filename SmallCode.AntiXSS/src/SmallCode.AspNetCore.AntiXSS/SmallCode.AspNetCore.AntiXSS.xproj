@@ -7,8 +7,8 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>eff1b710-2d19-4115-adcb-8441395502dc</ProjectGuid>
-    <RootNamespace>SmallCode.AntiXSS</RootNamespace>
+    <ProjectGuid>1de6d676-23b9-4c2e-9027-a0be53443414</ProjectGuid>
+    <RootNamespace>SmallCode.AspNetCore.AntiXSS</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>

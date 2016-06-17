@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"D:\document\work\frame\SmallCode.AntiXSS\SmallCode.AntiXSS\src\SmallCode.AntiXSS\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"D:\document\work\frame\SmallCode.AntiXSS\SmallCode.AntiXSS\src\SmallCode.AntiXSS\bin\Debug\netcoreapp1.0\SmallCode.AntiXSS.dll"
+"D:\document\work\frame\SmallCode.AntiXSS\SmallCode.AntiXSS\src\SmallCode.AspNetCore.AntiXSS\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"D:\document\work\frame\SmallCode.AntiXSS\SmallCode.AntiXSS\src\SmallCode.AspNetCore.AntiXSS\bin\Debug\netcoreapp1.0\SmallCode.AspNetCore.AntiXSS.dll"
 -r:"C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Antiforgery\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Antiforgery.dll"
 -r:"C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Authorization\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Authorization.dll"
 -r:"C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Cryptography.Internal\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Cryptography.Internal.dll"
@@ -117,6 +117,6 @@
 -r:"C:\Users\乐\.nuget\packages\System.Xml.ReaderWriter\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\乐\.nuget\packages\System.Xml.XDocument\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.XDocument.dll"
 -r:"C:\Users\乐\.nuget\packages\System.Xml.XPath\4.0.1-rc2-24027\ref\netstandard1.3\System.Xml.XPath.dll"
-"D:\document\work\frame\SmallCode.AntiXSS\SmallCode.AntiXSS\src\SmallCode.AntiXSS\HtmlFilter.cs"
-"D:\document\work\frame\SmallCode.AntiXSS\SmallCode.AntiXSS\src\SmallCode.AntiXSS\MVCExtensions\SanitizedHtmlHelper.cs"
-"D:\document\work\frame\SmallCode.AntiXSS\SmallCode.AntiXSS\src\SmallCode.AntiXSS\Properties\AssemblyInfo.cs"
+"D:\document\work\frame\SmallCode.AntiXSS\SmallCode.AntiXSS\src\SmallCode.AspNetCore.AntiXSS\HtmlFilter.cs"
+"D:\document\work\frame\SmallCode.AntiXSS\SmallCode.AntiXSS\src\SmallCode.AspNetCore.AntiXSS\MVCExtensions\SanitizedHtmlHelper.cs"
+"D:\document\work\frame\SmallCode.AntiXSS\SmallCode.AntiXSS\src\SmallCode.AspNetCore.AntiXSS\Properties\AssemblyInfo.cs"

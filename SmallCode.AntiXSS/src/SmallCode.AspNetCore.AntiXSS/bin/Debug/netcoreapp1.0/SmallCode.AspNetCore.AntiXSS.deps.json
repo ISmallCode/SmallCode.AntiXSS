@@ -7,14 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v1.0": {},
     ".NETCoreApp,Version=v1.0/": {
-      "SmallCode.AntiXSS/1.0.0-rc2-1": {
+      "SmallCode.AspNetCore.AntiXSS/1.0.0-rc2-1": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "1.0.0-rc2-final",
           "NETStandard.Library": "1.5.0-rc2-24027",
           "SmallCode.AspNetCore.HtmlAgilityPack": "1.0.0-rc2-1"
         },
         "runtime": {
-          "SmallCode.AntiXSS.dll": {}
+          "SmallCode.AspNetCore.AntiXSS.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/1.0.0-rc2-final": {
@@ -1447,7 +1447,7 @@
     }
   },
   "libraries": {
-    "SmallCode.AntiXSS/1.0.0-rc2-1": {
+    "SmallCode.AspNetCore.AntiXSS/1.0.0-rc2-1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
