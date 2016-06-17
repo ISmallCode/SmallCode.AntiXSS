@@ -20,7 +20,7 @@
           "Microsoft.AspNetCore.Server.IISIntegration": "1.0.0-rc2-final",
           "Microsoft.AspNetCore.Server.Kestrel": "1.0.0-rc2-final",
           "Microsoft.AspNetCore.Mvc": "1.0.0-rc2-final",
-          "SmallCode.AntiXSS": "1.0.0",
+          "SmallCode.AntiXSS": "1.0.0-rc2-1",
           "Microsoft.Extensions.Configuration.FileExtensions": "1.0.0-rc2-final",
           "Microsoft.Extensions.Configuration.Json": "1.0.0-rc2-final",
           "Microsoft.Extensions.Configuration.EnvironmentVariables": "1.0.0-rc2-final"
@@ -2923,7 +2923,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "SmallCode.AntiXSS/1.0.0": {
+      "SmallCode.AntiXSS/1.0.0-rc2-1": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "1.0.0-rc2-final",
           "NETStandard.Library": "1.5.0-rc2-24027",
@@ -3874,7 +3874,7 @@
       "serviceable": true,
       "sha512": "sha512-IxOLcwl5A0Lm1s2FIUh5klV+Fi0tUE/5OltvIkZdV7phcWVfgBlCRlgxweaXVrCTI+9TZ8TihVutVaA+PC95lg=="
     },
-    "SmallCode.AntiXSS/1.0.0": {
+    "SmallCode.AntiXSS/1.0.0-rc2-1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
